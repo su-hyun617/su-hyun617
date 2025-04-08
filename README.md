@@ -1,4 +1,13 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=SuHyun's%20GitHub&fontSize=90)
+
+## 🙌 Introduction
+### 영남대학교 컴퓨터공학과 24학번 박수현
+### 보안 및 데이터 분야
+
+## 😎 Github Stats
+  [![su-hyun617's GitHub stats](https://github-readme-stats.vercel.app/api?username=su-hyun617)](https://github.com/anuraghazra/github-readme-stats)
+  <br/>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=su-hyun617)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **su-hyun617/su-hyun617** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
